@@ -332,7 +332,7 @@ color: #888;
     color: #0dc0c0 !important;
     font-size: 22px;
     line-height: 20px;
-    margin-top: -22px;
+    margin-top: -28px;
 }
 
 .navbar-default .navbar-nav>li>a {
@@ -383,6 +383,10 @@ color: #888;
 }
 .navbar-default .navbar-toggle .icon-bar {
   background-color: #0dc0c0;
+}
+
+.logo-img {
+    height: 78px;
 }
 
 
